@@ -8,7 +8,7 @@
 **Data Scientist & AI Engineer | Full-Stack Developer | Generative AI & MLOps Enthusiast | Cloud Practitioner**
 ---
 
-## <img src="wired-flat-409-tool-hover-oscillate.gif" width="30"> Technologies & Tools
+## <img src="assets/icons/wired-lineal-1121-iota-internet-of-things-hover-pinch.gif" width="50"> Technologies & Tools <img src="assets/icons/wired-flat-409-tool-hover-oscillate.gif" width="50">
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
