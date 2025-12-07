@@ -8,8 +8,8 @@
 **Data Scientist & AI Engineer | Full-Stack Developer | Generative AI & MLOps Enthusiast | Cloud Practitioner**
 ---
 
-## 🔧 Technologies & Tools
-<img src="wired-flat-409-tool-hover-oscillate.gif" width="200">
+## 🔧 <img src="wired-flat-409-tool-hover-oscillate.gif" width="10"> Technologies & Tools
+
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=postgresql&logoColor=white" />
