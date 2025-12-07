@@ -32,14 +32,6 @@
 
 ---
 
-## 📊 GitHub Stats & Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&count_private=true&hide_border=false" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=false" width="49%" />
-</p>
-
----
-
 ## 🌱 Currently Learning
 - LangChain & LLM Applications  
 - Generative AI & Prompt Engineering  
@@ -49,7 +41,7 @@
 ---
 
 ## ⚡ Fun Fact
-- ♟️ Chess lover | 🚀 Sci-fi enthusiast | 🎨 AI Art Explorer  
+- ♟️ obsessed Nordic walker | 🚀 Sci-fi enthusiast | 🎨 AI Art Explorer  
 - I like turning ML models into **interactive visualizations and live demos**!
 
 ---
