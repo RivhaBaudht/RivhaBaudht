@@ -7,6 +7,7 @@
 # Welcome to My GitHub Profile ! 
 **Data Scientist & AI Engineer | Full-Stack Developer | Generative AI & MLOps Enthusiast | Cloud Practitioner**
 ---
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C92BF7&width=1100&lines=Proficiency+in+Python+%2B+core+libraries+(Pandas%2C+NumPy%2C+Matplotlib%2FSeaborn%2C+Scikit-learn);Familiarity+with+SQL+for+querying+relational+datasets;Sound+understanding+of+ML+fundamentals+%E2%80%93+supervised%2Funsupervised+learning+methods;Strong+statistics+foundation+%E2%80%93+distributions%2C+hypothesis+testing%2C+probability;Ability+to+interpret+data%2C+derive+insights%2C+and+present+conclusions+clearly;Knowledge+of+BI+tools+(Power+BI+%2F+Tableau);Strong+communication+skills%2C+ownership+mindset+%26+enthusiasm+to+learn;Basics+of+cloud+platforms+(Azure+%2F+AWS)+)](https://git.io/typing-svg)
 
 ## <img src="assets/icons/wired-lineal-1121-iota-internet-of-things-hover-pinch.gif" width="50"> Technologies & Tools <img src="assets/icons/wired-flat-409-tool-hover-oscillate.gif" width="50">
 
