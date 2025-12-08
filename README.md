@@ -48,7 +48,7 @@
 
 ---
 
-## ⚡ Fun Fact
+## <img src="assets/icons/wired-flat-186-puzzle-hover-detach.gif" width="50"> Mad Skills
 - ♟️ obsessed Nordic walker | 🚀 Sci-fi enthusiast | 🎨 AI Art Explorer  
 - I like turning ML models into **interactive visualizations and live demos**!
 
@@ -60,9 +60,14 @@
 
 ## <img src="assets/icons/wired-flat-1505-radio-walkie-talkie-hover-pinch.gif" width="50"> Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/yourprofile"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <img src="assets/icons/wired-flat-2648-logo-circle-slack-hover-pinch.gif" width="50">
+  <img src="assets/icons/wired-flat-2566-logo-discord-hover-rotation.gif" width="50">  
+  <img src="assets/icons/wired-flat-2549-logo-linkedin-hover-pinch.gif" width="50">
+  <img src="assets/icons/wired-flat-2659-logo-circle-google-meets-hover-pinch.gif" width="50">
+  <img src="assets/icons/wired-flat-2577-logo-zoom-hover-pinch.gif" width="50">
+  <img src="assets/icons/wired-flat-2730-logo-square-skype-hover-pinch.gif" width="50">
+  <img src="assets/icons/wired-flat-2631-logo-circle-youtube-hover-pinch.gif" width="50">
+  <img src="assets/icons/wired-flat-2645-logo-circle-medium-hover-pinch.gif" width="50">
 </p>
 
-<img src="assets/icons/wired-flat-2231-christmas-stocks-hover-pinch.gif" width="50"> | <img src="assets/icons/wired-flat-2238-santa-hover-pinch.gif" width="50"> 
+<img src="assets/icons/wired-flat-2231-christmas-stocks-hover-pinch.gif" width="50"> <img src="assets/icons/wired-flat-2238-santa-hover-pinch.gif" width="50"> <img src="assets/icons/wired-flat-2935-christmas-three-baubles-hover-pinch.gif" width="50"> <img src="assets/icons/wired-flat-2230-candy-cane-hover-pinch.gif" width="50"> 
