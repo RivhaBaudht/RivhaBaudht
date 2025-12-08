@@ -36,7 +36,7 @@
 | Project | Description | Live Preview |
 |---------|-------------|-------------|
 | **OPEN MEDIC 2014-2021** | In this project, I implement SVMs and explore the algorithm through different scenarios depending on the type of kernel. Dans ce projet, j'implémente l'algorithme SVM et l'explore à travers différents scénarios selon le type de noyau kernel. | ![Preview](https://media.giphy.com/media/26xBuwFHz4iP9SV7O/giphy.gif) |
-| **Data Analysis Toolkit** | ETL & visualization scripts | ![Preview](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif) |
+| **Data Analysis Toolkit** | ETL & visualization scripts | ![Preview](https://media.giphy.com/media/26xBuwFHz4iP9SV7O/giphy.gif) |
 | **ML Experiment Tracker** | Track ML experiments automatically | ![Preview](https://media.giphy.com/media/xT5LMLo3ZlIihEXA4k/giphy.gif) |
 
 ---
@@ -54,13 +54,10 @@
 - I like turning ML models into **interactive visualizations and live demos**!
 
 ---
-| <!-- Dynamic AI Banner GIF -->
+<!-- Dynamic Banner GIF -->
 <p align="left">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2xsNXVhcWFlNjFsejhkNDdqNGNkcjN4dnNub2hseWQ1dmRvcGVvbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TeGsgFG34i8XW03n2H/giphy.gif" alt="giphy.com/stickers" width="25%">
-</p>|  <!-- Dynamic AI Banner GIF -->
-<p align="right">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2xsNXVhcWFlNjFsejhkNDdqNGNkcjN4dnNub2hseWQ1dmRvcGVvbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TeGsgFG34i8XW03n2H/giphy.gif" alt="giphy.com/stickers" width="25%">
-</p>|
+</p>
 
 ## 📫 Connect with Me
 <p align="center">
