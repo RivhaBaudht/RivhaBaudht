@@ -17,6 +17,7 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" />
+   <img src="https://img.shields.io/badge/Bash-121011?logo=gnubash&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Tableau-2496ED?style=for-the-badge&logo=tableau&logoColor=white" />
   <img src="https://img.shields.io/badge/Google Gemini-326CE5?style=for-the-badge&logo=googlegemini&logoColor=white" />
