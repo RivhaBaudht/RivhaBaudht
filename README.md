@@ -54,11 +54,13 @@
 - I like turning ML models into **interactive visualizations and live demos**!
 
 ---
-<!-- Dynamic AI Banner GIF -->
-<p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2xsNXVhcWFlNjFsejhkNDdqNGNkcjN4dnNub2hseWQ1dmRvcGVvbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TeGsgFG34i8XW03n2H/giphy.gif" alt="giphy.com/stickers" width="50%">
-</p>
----
+| <!-- Dynamic AI Banner GIF -->
+<p align="left">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2xsNXVhcWFlNjFsejhkNDdqNGNkcjN4dnNub2hseWQ1dmRvcGVvbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TeGsgFG34i8XW03n2H/giphy.gif" alt="giphy.com/stickers" width="25%">
+</p>|  <!-- Dynamic AI Banner GIF -->
+<p align="right">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2xsNXVhcWFlNjFsejhkNDdqNGNkcjN4dnNub2hseWQ1dmRvcGVvbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TeGsgFG34i8XW03n2H/giphy.gif" alt="giphy.com/stickers" width="25%">
+</p>|
 
 ## 📫 Connect with Me
 <p align="center">
