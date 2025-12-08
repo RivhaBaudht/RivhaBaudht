@@ -1,6 +1,6 @@
 <!-- Dynamic AI Banner GIF -->
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmJhbnlhOHZmeTNoa3d5aDI5cnBxemR5cWw0bXg3dnZzcW1qa2h3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wr82LOt9GX2RXc5Zf2/giphy.gif" alt="Banner GIF" width="30%">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmJhbnlhOHZmeTNoa3d5aDI5cnBxemR5cWw0bXg3dnZzcW1qa2h3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wr82LOt9GX2RXc5Zf2/giphy.gif" alt="Banner GIF" width="45%">
 </p>
 
 # <img src="assets/icons/wired-gradient-1865-shooting-stars-hover-pinch.gif" width="50"> Welcome to My GitHub Profile ! 
@@ -55,7 +55,7 @@
 
 ---
 ## <p align="center"><img src="assets/icons/wired-flat-186-puzzle-hover-detach.gif" width="50"> Mad Skills</p>
-- ♟️ obsessed Nordic walker | 🚀 Sci-fi enthusiast | 🎨 AI Art Explorer  
+- ♟️ Obsessed Nordic-Walker | 🚀 Sci-fi enthusiast | 🎨 Art Explorer | Compulsive Inner-City Traveller
 - I like turning ML models into **interactive visualizations and live demos**!
 
 ---
@@ -72,5 +72,5 @@
 </p>
 
 ---
-## <p align="right">Happy Season Greatings !</p>
+<p align="right">Happy Season Greatings !</p>
 <p align="right"><img src="assets/icons/wired-flat-2231-christmas-stocks-hover-pinch.gif" width="50"> <img src="assets/icons/wired-flat-2238-santa-hover-pinch.gif" width="50"> <img src="assets/icons/wired-flat-2935-christmas-three-baubles-hover-pinch.gif" width="50"> <img src="assets/icons/wired-flat-2230-candy-cane-hover-pinch.gif" width="50"> </p>
