@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/badge/Git-121011?style=for-the-badge&logo=git&logoColor=white" />  
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-121011?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/Anaconda-121011?style=for-the-badge&logo=anaconda&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-Notebook-121011?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter Notebook-121011?style=for-the-badge&logo=jupyter&logoColor=white" />
 </p>
 
 ---
@@ -71,5 +71,5 @@
 </p>
 
 ---
-## Happy Season Greatings !
+## <p align="right">Happy Season Greatings !</p>
 <p align="right"><img src="assets/icons/wired-flat-2231-christmas-stocks-hover-pinch.gif" width="50"> <img src="assets/icons/wired-flat-2238-santa-hover-pinch.gif" width="50"> <img src="assets/icons/wired-flat-2935-christmas-three-baubles-hover-pinch.gif" width="50"> <img src="assets/icons/wired-flat-2230-candy-cane-hover-pinch.gif" width="50"> </p>
