@@ -3,7 +3,7 @@
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmJhbnlhOHZmeTNoa3d5aDI5cnBxemR5cWw0bXg3dnZzcW1qa2h3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wr82LOt9GX2RXc5Zf2/giphy.gif" alt="Banner GIF" width="50%">
 </p>
 
-# <a href="https://lordicon.com/">Icons by Lordicon.com <img src="assets/icons/wired-gradient-1865-shooting-stars-hover-pinch.gif" width="50"> </a> Welcome to My GitHub Profile ! 
+# <img src="assets/icons/wired-gradient-1865-shooting-stars-hover-pinch.gif" width="50"> Welcome to My GitHub Profile ! 
 **AI & Data [Research] Scientist | Full-Stack Developer | M.Sc. Industrial and Financial Economics | Research Experience**
 ---
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C92BF7&random=true&width=1100&lines=Proficiency+in+Python+%2B+core+libraries+(Pandas%2C+NumPy%2C+Matplotlib%2FSeaborn%2C+Scikit-learn);Familiarity+with+SQL+for+querying+relational+datasets;Sound+understanding+of+ML+fundamentals+%E2%80%93+supervised%2Funsupervised+learning+methods;Good+statistics+foundation+%E2%80%93+distributions%2C+hypothesis+testing%2C+probability;Ability+to+interpret+data%2C+derive+insights%2C+and+present+conclusions+clearly;Knowledge+of+BI+tools+(Power+BI+%2F+Tableau);Basics+of+cloud+platforms+(Azure+%2F+AWS)+;Good+command+of+HTML5%2C+CSS3%2C+Javascript;Good+knowledge+of+object-oriented+programming;Hands-on+experience+with+CI%2FCD+pipelines;Fluency+in+French+and+English;Strong+problem-solving+skills+and+attention+to+detail;Great+communication+skills%2C+ownership+mindset+%26+enthusiasm+to+learn;Fast+learner+who+adapts+easily+to+change;Autonomous%2C+proactive%2C+and+meticulous+in+my+work;Good+grasp+of+the+main+modern+DS+and+ML+techniques+(Statistical+learning%2C+machine+learning%2C+deep+learning);Experience+with+data+scripting+languages+(SQL%2C+Python%2C+R)+;Experience+with+statistical%2Fmathematical+software+(R%2C+SAS%2C+Matlab);Experience+with+big+data+(processing%2C+filtering%2C+%26+presenting+large+quants);Experience+implementing+algorithms+using+both+toolkits+and+self-developed+code;Sound+interest+in+generative+AI%2C+%26+large+language+models;Obsessed+Data+Scientist+;Insatiably+curious+and+always+want+to+learn+more;Write+clean+code+with+clear+documentation;Proficiency+in+C+programming)](https://git.io/typing-svg)
@@ -56,6 +56,7 @@
 <!-- Dynamic Banner GIF -->
 <p align="left">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2xsNXVhcWFlNjFsejhkNDdqNGNkcjN4dnNub2hseWQ1dmRvcGVvbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TeGsgFG34i8XW03n2H/giphy.gif" alt="giphy.com/stickers" width="25%">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDF2c3h2ZjBzenJoMHRha2liOHlwNHN0Ym8yNzkwNXI1anNlcHhsbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/e9BUxDjZUk6dZeicZl/giphy.gif" alt="giphy.com/stickers" width="25%">
 </p>
 
 ## <img src="assets/icons/wired-flat-1505-radio-walkie-talkie-hover-pinch.gif" width="50"> Connect with Me
