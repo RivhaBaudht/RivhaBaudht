@@ -56,7 +56,7 @@
 ---
 <!-- Dynamic AI Banner GIF -->
 <p align="center">
-  <img src="[https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmJhbnlhOHZmeTNoa3d5aDI5cnBxemR5cWw0bXg3dnZzcW1qa2h3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wr82LOt9GX2RXc5Zf2/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2xsNXVhcWFlNjFsejhkNDdqNGNkcjN4dnNub2hseWQ1dmRvcGVvbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TeGsgFG34i8XW03n2H/giphy.gif)" alt="Banner GIF" width="50%">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmJhbnlhOHZmeTNoa3d5aDI5cnBxemR5cWw0bXg3dnZzcW1qa2h3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wr82LOt9GX2RXc5Zf2/giphy.gif" alt="giphy.com/stickers" width="50%">
 </p>
 
 
