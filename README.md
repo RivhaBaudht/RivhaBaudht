@@ -35,9 +35,9 @@
 ## 💼 Featured Projects
 | Project | Description | Live Preview |
 |---------|-------------|-------------|
-| **OPEN MEDIC 2014-2021** | In this project, I implement SVMs and explore the algorithm through different scenarios depending on the type of kernel. Dans ce projet, j'implémente l'algorithme SVM et l'explore à travers différents scénarios selon le type de noyau kernel. | ![Preview](https://media.giphy.com/media/26xBuwFHz4iP9SV7O/giphy.gif) |
-| **Data Analysis Toolkit** | ETL & visualization scripts | ![Preview](https://media.giphy.com/media/26xBuwFHz4iP9SV7O/giphy.gif) |
-| **ML Experiment Tracker** | Track ML experiments automatically | ![Preview](https://media.giphy.com/media/xT5LMLo3ZlIihEXA4k/giphy.gif) |
+| **OPEN MEDIC 2014-2021** | In this project, I implement SVMs and explore the algorithm through different scenarios depending on the type of kernel. Dans ce projet, j'implémente l'algorithme SVM et l'explore à travers différents scénarios selon le type de noyau kernel. | ![Preview](assets/videoGifs/open_medic_svm.gif) |
+| **PROJECT TITLE** | Project description | ![Preview](https://media.giphy.com/media/26xBuwFHz4iP9SV7O/giphy.gif) |
+| **PROJECT TITLE** | Project description | ![Preview](https://media.giphy.com/media/xT5LMLo3ZlIihEXA4k/giphy.gif) |
 
 ---
 
