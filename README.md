@@ -11,21 +11,20 @@
 ## <img src="assets/icons/wired-lineal-1121-iota-internet-of-things-hover-pinch.gif" width="50"> Technologies & Tools <img src="assets/icons/wired-flat-409-tool-hover-oscillate.gif" width="50">
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Python-121011?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-121011?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-121011?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-121011?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-121011?logo=html5&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/CSS3-121011?logo=css3&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/PHP-121011?logo=php&logoColor=white&style=flat-square" />
    <img src="https://img.shields.io/badge/Bash-121011?logo=gnubash&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tableau-2496ED?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google Gemini-326CE5?style=for-the-badge&logo=googlegemini&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google Docs-326CE5?style=for-the-badge&logo=googledocs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />  
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-121011?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tableau-121011?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google Gemini-121011?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-121011?style=for-the-badge&logo=git&logoColor=white" />  
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-121011?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 </p>
