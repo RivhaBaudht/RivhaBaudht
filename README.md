@@ -32,7 +32,7 @@
 
 ---
 
-## <img src="assets/icons/wired-flat-187-suitcase-hover-pinch.gif" width="50"> Featured Projects
+## <img src="assets/icons/wired-flat-187-suitcase-hover-pinch.gif" width="50"> Featured Projects <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHl3ZGh2czR0bHRzMGRucjMwNWE5YTE3Y3k4YTl4aGh3aWxzcHkzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Eir5nRnYlkWwI3Piec/giphy.gif" alt="Banner GIF" width="50%">
 | Project | Description | Live Preview |
 |---------|-------------|-------------|
 | **OPEN MEDIC 2014-2021** | In this project, I implement SVMs and explore the algorithm through different scenarios depending on the type of kernel. Dans ce projet, j'implémente l'algorithme SVM et l'explore à travers différents scénarios selon le type de noyau kernel. | ![Preview](assets/videoGifs/open_medic_svm.gif) |
