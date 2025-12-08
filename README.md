@@ -65,3 +65,5 @@
   <a href="https://twitter.com/yourprofile"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 </p>
+
+<img src="assets/icons/wired-lineal-1121-iota-internet-of-things-hover-pinch.gif" width="50"> | <img src="assets/icons/wired-lineal-1121-iota-internet-of-things-hover-pinch.gif" width="50"> 
