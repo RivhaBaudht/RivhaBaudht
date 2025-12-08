@@ -53,9 +53,8 @@
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2xsNXVhcWFlNjFsejhkNDdqNGNkcjN4dnNub2hseWQ1dmRvcGVvbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TeGsgFG34i8XW03n2H/giphy.gif" alt="giphy.com/stickers" width="25%">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDF2c3h2ZjBzenJoMHRha2liOHlwNHN0Ym8yNzkwNXI1anNlcHhsbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/e9BUxDjZUk6dZeicZl/giphy.gif" alt="giphy.com/stickers" width="25%">
 </p>
----
 
-## <img src="assets/icons/wired-flat-186-puzzle-hover-detach.gif" width="50"> Mad Skills
+## <p align="center"><img src="assets/icons/wired-flat-186-puzzle-hover-detach.gif" width="50"> Mad Skills</p>
 - ♟️ obsessed Nordic walker | 🚀 Sci-fi enthusiast | 🎨 AI Art Explorer  
 - I like turning ML models into **interactive visualizations and live demos**!
 
