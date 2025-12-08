@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/SQL-121011?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-121011?logo=html5&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/CSS3-121011?logo=css3&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" />
+  <img src="https://img.shields.io/badge/JavaScript-121011?logo=javascript&logoColor=black&style=flat-square" />
   <img src="https://img.shields.io/badge/PHP-121011?logo=php&logoColor=white&style=flat-square" />
    <img src="https://img.shields.io/badge/Bash-121011?logo=gnubash&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/TensorFlow-121011?style=for-the-badge&logo=tensorflow&logoColor=white" />
@@ -25,8 +25,8 @@
   <img src="https://img.shields.io/badge/Google Gemini-121011?style=for-the-badge&logo=googlegemini&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-121011?style=for-the-badge&logo=git&logoColor=white" />  
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-121011?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Anaconda-121011?style=for-the-badge&logo=anaconda&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-Notebook-121011?style=for-the-badge&logo=jupyter&logoColor=white" />
 </p>
 
 ---
@@ -69,5 +69,6 @@
   <img src="assets/icons/wired-flat-2631-logo-circle-youtube-hover-pinch.gif" width="50">
   <img src="assets/icons/wired-flat-2645-logo-circle-medium-hover-pinch.gif" width="50">
 </p>
-
-<img src="assets/icons/wired-flat-2231-christmas-stocks-hover-pinch.gif" width="50"> <img src="assets/icons/wired-flat-2238-santa-hover-pinch.gif" width="50"> <img src="assets/icons/wired-flat-2935-christmas-three-baubles-hover-pinch.gif" width="50"> <img src="assets/icons/wired-flat-2230-candy-cane-hover-pinch.gif" width="50"> 
+---
+## Happy Season Greatings !
+<p align="right"><img src="assets/icons/wired-flat-2231-christmas-stocks-hover-pinch.gif" width="50"> <img src="assets/icons/wired-flat-2238-santa-hover-pinch.gif" width="50"> <img src="assets/icons/wired-flat-2935-christmas-three-baubles-hover-pinch.gif" width="50"> <img src="assets/icons/wired-flat-2230-candy-cane-hover-pinch.gif" width="50"> </p>
