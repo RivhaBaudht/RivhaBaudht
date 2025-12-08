@@ -20,7 +20,6 @@
   <img src="https://img.shields.io/badge/Google Dos-326CE5?style=for-the-badge&logo=googledocs&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=white />
-
 </p>
 
 ---
