@@ -32,7 +32,7 @@
 
 ---
 
-## <img src="assets/icons/wired-flat-187-suitcase-hover-pinch.gif" width="50"> Featured Projects <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHl3ZGh2czR0bHRzMGRucjMwNWE5YTE3Y3k4YTl4aGh3aWxzcHkzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Eir5nRnYlkWwI3Piec/giphy.gif" alt="giphy.com/gifs" width="10%">
+## <img src="assets/icons/wired-flat-187-suitcase-hover-pinch.gif" width="50"> Featured Projects 
 | Project | Description | Live Preview |
 |---------|-------------|-------------|
 | **OPEN MEDIC 2014-2021** | In this project, I implement SVMs and explore the algorithm through different scenarios depending on the type of kernel. Dans ce projet, j'implémente l'algorithme SVM et l'explore à travers différents scénarios selon le type de noyau kernel. | ![Preview](assets/videoGifs/open_medic_svm.gif) |
@@ -49,6 +49,7 @@
 ---
 <!-- Dynamic Banner GIF -->
 <p align="right">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHl3ZGh2czR0bHRzMGRucjMwNWE5YTE3Y3k4YTl4aGh3aWxzcHkzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Eir5nRnYlkWwI3Piec/giphy.gif" alt="giphy.com/gifs" width="25%">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2xsNXVhcWFlNjFsejhkNDdqNGNkcjN4dnNub2hseWQ1dmRvcGVvbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TeGsgFG34i8XW03n2H/giphy.gif" alt="giphy.com/stickers" width="25%">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDF2c3h2ZjBzenJoMHRha2liOHlwNHN0Ym8yNzkwNXI1anNlcHhsbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/e9BUxDjZUk6dZeicZl/giphy.gif" alt="giphy.com/stickers" width="25%">
 </p>
@@ -58,7 +59,7 @@
 - ♟️ obsessed Nordic walker | 🚀 Sci-fi enthusiast | 🎨 AI Art Explorer  
 - I like turning ML models into **interactive visualizations and live demos**!
 
-
+---
 ## <img src="assets/icons/wired-flat-1505-radio-walkie-talkie-hover-pinch.gif" width="50"> Connect with Me
 <p align="center">
   <img src="assets/icons/wired-flat-2648-logo-circle-slack-hover-pinch.gif" width="50">
