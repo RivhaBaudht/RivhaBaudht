@@ -27,6 +27,7 @@
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-121011?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/Anaconda-121011?style=for-the-badge&logo=anaconda&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter Notebook-121011?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Security Information and Event Management-121011?style=for-the-badge&logo=SIEM&logoColor=white" />
 </p>
 
 ---
