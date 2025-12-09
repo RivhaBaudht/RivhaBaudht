@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/Anaconda-121011?style=for-the-badge&logo=anaconda&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter Notebook-121011?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/SIEM-Security Information and Event Management-121011?style=for-the-badge&logo=SIEM&logoColor=white" />
-  <img src="https://img.shields.io/badge/IDS-Intrusion Detection Systems-121011?logo=SIEM&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/IDS-Intrusion Detection Systems-121011?style=for-the-badge&logo=SIEM&logoColor=white" />
 </p>
 
 ---
