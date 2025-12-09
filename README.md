@@ -17,6 +17,7 @@
   <img src="https://img.shields.io/badge/SQL-121011?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-121011?logo=html5&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/CSS3-121011?logo=css3&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/CSS3-121011?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-121011?logo=javascript&logoColor=black&style=flat-square" />
   <img src="https://img.shields.io/badge/PHP-121011?logo=php&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/Bash-121011?logo=gnubash&logoColor=white&style=flat-square" />
@@ -28,8 +29,7 @@
   <img src="https://img.shields.io/badge/Anaconda-121011?style=for-the-badge&logo=anaconda&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter Notebook-121011?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/SIEM-Security Information and Event Management-121011?style=for-the-badge&logo=SIEM&logoColor=white" />
-  <img src="https://img.shields.io/badge/IDS-Intrusion Detection Systems-121011?style=for-the-badge&logo=IDS&logoColor=white" />  
-  <img src="https://img.shields.io/badge/IDS-Intrusion Detection Systems-121011?logo=IDS&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/IDS-Intrusion Detection Systems-121011?style=for-the-badge&logo=IDS&logoColor=white" />
 </p>
 
 ---
