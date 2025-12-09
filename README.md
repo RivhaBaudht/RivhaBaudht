@@ -20,6 +20,7 @@
   <img src="https://img.shields.io/badge/JavaScript-121011?logo=javascript&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/PHP-121011?logo=php&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/Bash-121011?logo=gnubash&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-121011?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Tableau-121011?style=for-the-badge&logo=tableau&logoColor=white" />
   <img src="https://img.shields.io/badge/Google Gemini-121011?style=for-the-badge&logo=googlegemini&logoColor=white" />
