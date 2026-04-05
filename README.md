@@ -75,4 +75,4 @@
 
 ---
 <p align="right">Happy Season Greatings !</p>
-<p align="right"><img src="assets/videoGifs/rivhabaudht_spring.gif" width="50"></p>
+<p align="right"><img src="assets/videoGifs/rivhabaudht_spring.gif" width="100"></p>
