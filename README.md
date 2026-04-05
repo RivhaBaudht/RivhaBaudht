@@ -66,13 +66,16 @@
   <img src="assets/icons/wired-flat-2648-logo-circle-slack-hover-pinch.gif" width="50">
   <img src="assets/icons/wired-flat-2566-logo-discord-hover-rotation.gif" width="50">  
   <img src="assets/icons/wired-flat-2549-logo-linkedin-hover-pinch.gif" width="50">
+
+  <a href="https://www.linkedin.com/in/rivhabaudht/" target="_blank">
+  <img src="assets/icons/wired-flat-2549-logo-linkedin-hover-pinch.gif" width="50">
+  </a>
   <img src="assets/icons/wired-flat-2659-logo-circle-google-meets-hover-pinch.gif" width="50">
   <img src="assets/icons/wired-flat-2577-logo-zoom-hover-pinch.gif" width="50">
   <img src="assets/icons/wired-flat-2730-logo-square-skype-hover-pinch.gif" width="50">
   <img src="assets/icons/wired-flat-2631-logo-circle-youtube-hover-pinch.gif" width="50">
   <img src="assets/icons/wired-flat-2645-logo-circle-medium-hover-pinch.gif" width="50">
 </p>
-
 ---
 <p align="right">Happy Season Greatings !</p>
 <p align="right"><img src="assets/videoGifs/rivhabaudht_spring.gif" width="100"></p>
