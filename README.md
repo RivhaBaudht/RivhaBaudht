@@ -75,4 +75,4 @@
 
 ---
 <p align="right">Happy Season Greatings !</p>
-<p align="right"><img src="assets/icons/wired-flat-2231-christmas-stocks-hover-pinch.gif" width="50"> <img src="assets/icons/wired-flat-2238-santa-hover-pinch.gif" width="50"> <img src="assets/icons/wired-flat-2935-christmas-three-baubles-hover-pinch.gif" width="50"> <img src="assets/icons/wired-flat-2230-candy-cane-hover-pinch.gif" width="50"> </p>
+<p align="right"><img src="assets/videoGifs/rivhabaudht_spring.mp4" width="50"></p>
