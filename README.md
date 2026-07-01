@@ -42,10 +42,9 @@
 ---
 
 ## <img src="assets/icons/wired-flat-112-book-hover-closed.gif" width="50"> Currently Learning
-- Foundations of Cybersecurity | Google Career Certificates | Coursera  
-- Google AI Essentials Specialization | Google Career Certificates | Coursera
-- Google Data Analytics Professional Certificate | Google Career Certificates | Coursera
-
+- Google Cybersecurity | Google Career Certificates | Coursera
+- Google IT Support Professional Certificate | Google Career Certificates | Coursera
+- Google AI Professional Certificate | Google Career Certificates | Coursera
 ---
 <!-- Dynamic Banner GIF -->
 <p align="right">
